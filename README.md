@@ -14,9 +14,9 @@ Implémenter en langage C un mini correcteur orthographique en 3 parties.
 -Dans la partie 3, nous utilisons les arbres BK (Burkhard-Keller) pour faire à la fois la détection des mots mal orthographiés et les propositions de corrections.
 
 **Sujet :**  
-Voir le sujet
+Voir le [sujet](https://github.com/syltran/spell-checker/blob/master/sujet_DM-Projet.pdf)
 
 **Détails d'implémentation relatifs à chaque partie :**  
-Partie 1 : voir le rapport  
-Partie 2 : voir le rapport  
-Partie 3 : voir le rapport
+Partie 1 : voir le [rapport](https://github.com/syltran/spell-checker/blob/master/Partie_1/Tran_Thai_Rapport.pdf)  
+Partie 2 : voir le [rapport](https://github.com/syltran/spell-checker/blob/master/Partie_2/TRAN_THAI_TOUSSAINT_Rapport.pdf)  
+Partie 3 : voir le [rapport](https://github.com/syltran/spell-checker/blob/master/Partie_3/TRAN_THAI_TOUSSAINT_Rapport.pdf)
